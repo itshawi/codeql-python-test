@@ -11,5 +11,5 @@
 import python
 
 from Function f
-where f.getName().matches("debug_*")
+where f.getName().matches("debug_%")
 select f, "This function starts with 'debug_' prefix."
