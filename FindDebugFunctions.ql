@@ -1,4 +1,5 @@
 /**
+ * @name Function with 'debug_' prefix
  * @description Identifies functions that start with the 'debug_' prefix, which might indicate debug code left in production.
  * @kind problem
  * @severity error
